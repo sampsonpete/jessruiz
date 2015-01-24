@@ -3,22 +3,21 @@ layout: default
 title: Home
 ---
 
+<div class="intro">
+  <p>Vivamus tempus orci nec risus vestibulum vehicula. Interdum et malesuada fames ac ante ipsum primis in faucibus. In accumsan pharetra lorem lacinia malesuada. <a href="{{ site.baseurl }}about">More</a></p>
+</div>
+
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-
-    {% if post.content contains "<!--more-->" %}
-      {{ post.content | split:"<!--more-->" | first }}
-    {% else %}
-      {{ post.content }}
-    {% endif %}
+    <a href="{{ post.url }}">
+      {% if post.img %}
+        <img src="{{ site.url }}/public/images/{{ post.img }}">
+      {% endif %}
+      <h1 class="post-title">
+        {{ post.title }} 
+      </h1>
+    </a>
   </article>
   {% endfor %}
 </div>

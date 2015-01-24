@@ -3,8 +3,8 @@ permalink: pretty
 relative_permalinks: true
 
 # Setup
-title: Jess Ruiz — Producer
-tagline: Yadda yadda yadda.
+title: Jess Ruiz
+tagline: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 url:              
 paginate: 9
 baseurl: /

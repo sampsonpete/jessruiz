@@ -10,8 +10,8 @@ Our job was to present the Your Story collection in a way that it would sit toge
 
 I worked on the production of the dioramas including sourcing props. 
 
-<div><img src="{{ site.url }}/public/images/adidas-yourstory-group.jpg" alt=""></div>
+<div><img src="{{ site.baseurl }}/public/images/adidas-yourstory-group.jpg" alt=""></div>
 
 I was also the copywriter for all content material, which included a book distributed at select boutiques worldwide.
 
-<div><img src="{{ site.url }}/public/images/adidas-yourstory-book.jpg" alt=""></div>
+<div><img src="{{ site.baseurl }}/public/images/adidas-yourstory-book.jpg" alt=""></div>

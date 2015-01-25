@@ -2,6 +2,6 @@
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor eleifend nisi consectetur luctus. Vestibulum consequat efficitur nibh eu viverra. Fusce at lectus sem. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris imperdiet eleifend orci ac imperdiet. 
+I'm a creative producer with a strong editorial background, having previous experience as a fashion writer and stylist.
 
-Curabitur scelerisque luctus tellus non viverra. Etiam non massa viverra, euismod dui eu, fermentum ipsum. Fusce nibh neque, luctus congue porttitor sed, rhoncus non libero. Vivamus a diam ornare, molestie nisi vitae, sagittis tortor. Phasellus non accumsan leo. Cras rutrum risus ac orci blandit condimentum.
+I currently work at Mr Porter, the award-winning global retail destination for men's style, combining the best international menswear with editorial content. Prior to this I've worked with brands including adidas Originals, adidas (Performance), Thames & Hudson, Vans, Ben Sherman, Foot Locker EU and Defected Records to name a few.

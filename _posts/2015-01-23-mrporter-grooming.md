@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Mr Porter, Grooming
+title: Mr Porter, grooming campaign
 img: mrporter-grooming-featured.jpg
 ---
 
-Grooming is an important category for Mr Porter so I was tasked with producing a shoot that would be used on the Journal and various marketing uses, showing the breadth of product on offer. 
+Grooming is an important category for Mr Porter so I was tasked with producing a shoot that would be used on the Journal and for various marketing uses, showing the breadth of product on offer. 
 
 <div><img src="{{ site.baseurl }}/public/images/mrporter-grooming-shot-02.jpg" alt=""></div>
 

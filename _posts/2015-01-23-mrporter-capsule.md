@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mr Porter, Capsule Collections
+title: Mr Porter, capsule collections
 img: mrporter-capsule-featured.jpg
 ---
 

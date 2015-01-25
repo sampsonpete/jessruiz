@@ -3,27 +3,26 @@ layout: default
 title: Home
 ---
 
+<div class="intro">
+  <p>I’m a creative producer with a strong editorial background, having previous experience as a fashion writer and stylist. <a href="{{ site.baseurl }}about">More</a></p>
+</div>
+
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-
-    {% if post.content contains "<!--more-->" %}
-      {{ post.content | split:"<!--more-->" | first }}
-    {% else %}
-      {{ post.content }}
-    {% endif %}
+    <a href="{{ post.url }}">
+      {% if post.img %}
+        <img src="{{ site.url }}/public/images/{{ post.img }}">
+      {% endif %}
+      <h1 class="post-title">
+        <span>{{ post.title }}</span>
+      </h1>
+    </a>
   </article>
   {% endfor %}
 </div>
 
-<div class="pagination">
+<!-- <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
   {% else %}
@@ -38,4 +37,4 @@ title: Home
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
-</div>
+</div> -->

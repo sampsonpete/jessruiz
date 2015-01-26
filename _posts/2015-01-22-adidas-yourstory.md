@@ -12,6 +12,8 @@ I worked on the production of the dioramas including sourcing props.
 
 <div><img src="{{ site.baseurl }}/public/images/adidas-yourstory-group.jpg" alt=""></div>
 
+Photography: Phil Aylen
+
 I was also the copywriter for all content material, which included a book distributed at select boutiques worldwide.
 
 <div><img src="{{ site.baseurl }}/public/images/adidas-yourstory-book.jpg" alt=""></div>

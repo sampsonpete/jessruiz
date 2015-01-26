@@ -71,6 +71,10 @@ h1, h2, h3, h4, h5, h6, p, ul, img, .fluid-width-video-wrapper {
 	color: #333;
 }
 
+.border {
+	border: 1px solid #eee;
+}
+
 /* Homepage posts layout */
 .intro {
 	margin-bottom: 2em;

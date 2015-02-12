@@ -9,4 +9,4 @@ An animation by the Jullien Brothers gave a little insight of the character's hi
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/Zw2V-o8L02Y?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Animation: Juliien Brothers
+Animation: Jullien Brothers

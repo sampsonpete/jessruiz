@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About
 ---
 
 I’m a hands-on creative producer with a strong creative background having previous experience as a writer and stylist.

@@ -2,6 +2,6 @@
 layout: page
 ---
 
-I'm a creative producer with a strong editorial background, having previous experience as a fashion writer and stylist.
+I’m a hands-on creative producer with a strong creative background having previous experience as a writer and stylist.
 
-I currently work at Mr Porter, the award-winning global retail destination for men's style, combining the best international menswear with editorial content. Prior to this I've worked with brands including adidas Originals, adidas (Performance), Thames & Hudson, Vans, Ben Sherman, Foot Locker EU and Defected Records to name a few.
+I’ve worked both agency and client-side with brands such as Mr Porter, Selfridges, adidas Originals, adidas (Performance), Primark, Ben Sherman, Foot Locker EU, Skullcandy, Thames & Hudson, Defected Records and Vans, to name a few.

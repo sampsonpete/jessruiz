@@ -1,10 +1,10 @@
 # Permalinks
 permalink: /:title
-relative_permalinks: true
 
 # Setup
 title: Jess Ruiz
 tagline: I’m a creative producer with a strong editorial background, having previous experience as a fashion writer and stylist.
-url:              
+url:
+plugins: [jekyll-paginate]
 paginate: 40
-baseurl: http://jessruiz.london/
+paginate_path: "page:num"

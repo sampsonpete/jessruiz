@@ -4,13 +4,13 @@ title: Home
 ---
 
 <div class="intro">
-  <p>I’m a creative producer with a strong editorial background, having previous experience as a fashion writer and stylist. <a href="{{ site.baseurl }}about">More</a></p>
+  <p>I’m a hands-on creative producer with a strong creative background having previous experience as a writer and stylist. <a href="{{ site.baseurl }}/about">More</a></p>
 </div>
 
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post">
-    <a href="{{ post.url }}">
+    <a href="{{ site.baseurl }}{{ post.url }}">
       {% if post.img %}
         <img src="{{ site.baseurl }}/public/images/{{ post.img }}">
       {% endif %}
@@ -21,20 +21,3 @@ title: Home
   </article>
   {% endfor %}
 </div>
-
-<!-- <div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div> -->

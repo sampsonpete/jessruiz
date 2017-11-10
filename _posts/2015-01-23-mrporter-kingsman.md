@@ -18,4 +18,12 @@ Working to a short timescale, I worked on this shoot which was to be used as par
 
 <div><img src="{{ site.baseurl }}/public/images/mrporter-kingsman-wardrobe-shoes.jpg" alt=""></div>
 
-Photographer: Michael Bodiam
+Photography: Michael Bodiam
+
+<div><img src="{{ site.baseurl }}/public/images/mrporter-kingsman-collab-glasses.jpg" alt=""></div>
+
+<div><img src="{{ site.baseurl }}/public/images/mrporter-kingsman-collab-pyjamas.jpg" alt=""></div>
+
+<div><img src="{{ site.baseurl }}/public/images/mrporter-kingsman-collab-watch.jpg" alt=""></div>
+
+Photography: Kate Jackling

@@ -10,6 +10,8 @@ Inspired by the brand’s shift from the limiting preconception of ‘Mod’ to 
 
 <div><img src="{{ site.baseurl }}/public/images/bensherman-ghostpoet.jpg" alt=""></div>	
 
+Photography: Neil Bedford
+
 Carefully paired in order to spark engaging discussion that would deliver both weighty debate and lighter moments, talent included: bespoke shoe designer Sebastian Tarek paired with one-man music entrepreneur Alex Robinson; Mercury Award nominated Ghostpoet and street photographer Matt Stuart; and sartorial and cultural raconteur Jason Jules with artist Justin Hibbs.
 
 <iframe src="//player.vimeo.com/video/35002874" width="500" height="278" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -18,3 +20,4 @@ Carefully paired in order to spark engaging discussion that would deliver both w
 
 <iframe src="//player.vimeo.com/video/35247278" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+Director: Dan Canyon

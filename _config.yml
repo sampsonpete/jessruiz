@@ -8,4 +8,4 @@ url:
 plugins: [jekyll-paginate]
 paginate: 40
 paginate_path: "page:num"
-baseurl: /jessruiz
+baseurl: ""

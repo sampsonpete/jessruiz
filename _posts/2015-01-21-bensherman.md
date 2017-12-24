@@ -4,11 +4,13 @@ title: Ben Sherman, Conversations in Modernism
 img: bensherman-featured.jpg
 ---
 
-Inspired by the brand’s shift from the limiting preconception of ‘Mod’ to the broader possibilities of ‘Modernism’, we curated a series of conversations between diverse creatives who reflected the aspirations of Ben Sherman’s new target market.
+When Ben Sherman wanted to reposition their brand, they came to U-Dox. I was involved at initial pitch stages to come up with the concept of ‘Conversations in Modernism’, pairing interesting talent to discuss what modernism means to them.
+
+I worked at concept stage to contribute ideas, as well as the microsite and video copy for all three films.
 
 <div><img src="{{ site.baseurl }}/public/images/bensherman-jasonjules-justinhibbs.jpg" alt=""></div>
 
-<div><img src="{{ site.baseurl }}/public/images/bensherman-ghostpoet.jpg" alt=""></div>	
+<div><img src="{{ site.baseurl }}/public/images/bensherman-ghostpoet.jpg" alt=""></div>
 
 Photography: Neil Bedford
 

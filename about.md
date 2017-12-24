@@ -11,14 +11,14 @@ Iâ€™ve worked with some of the most loved and progressive brands in the world â€
 
 I feel just as comfortable leading a team as I do working independently, although I believe collaboration is key to good content.
 
-Brand skills
+### Brand skills
 - Copywriting and editing
 - Digital marketing
 - UX writing (for both mobile and web apps, as well as websites)
 - Partnerships and influencer collaborations
 - Editorial features
 
-Strategy
+### Strategy
 - Ideation of integrated campaigns and content
 - Marketing trends and insights
 - Content curation
